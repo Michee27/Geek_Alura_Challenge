@@ -1,0 +1,16 @@
+{
+    "produtos": [
+      {
+        "id": "1",
+        "nome": "Stormtrooper",
+        "valor": "60",
+        "imagem": "http://127.0.0.1:5500/image/imgStormTrooper.png"
+      },
+      {
+        "id": "03d2",
+        "nome": "Lucas",
+        "valor": "18.99",
+        "imagem": "https://cdn.awsli.com.br/2500x2500/2466/2466923/produto/209768530a1972f2deb.jpg"
+      }
+    ]
+  }
